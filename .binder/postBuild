@@ -1,0 +1,6 @@
+#!/bin/bash
+jupyter lab build
+
+jupyter lab --generate-config
+
+echo "c.LabApp.default_url = '/lab/tree/LOSC_Event_tutorial.ipynb'" >> ~/.jupyter/jupyter_lab_config.py
