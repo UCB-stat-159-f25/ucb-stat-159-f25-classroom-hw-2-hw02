@@ -1,0 +1,1 @@
+I used ChatGPT (OpenAI GPT-5) for technical help more specifically on step 4 when doing the binder, my binder was loading and gave me the raw version and the static one but wouldn't load. I waited for 20 + mins so I asked ChatGPT for assistance during the process for it to load and to help rewrite faster loading environments. 
