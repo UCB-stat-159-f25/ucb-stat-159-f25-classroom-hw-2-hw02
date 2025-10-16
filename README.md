@@ -1,4 +1,27 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/y12QcJaO)
-# HW 2: From Notebooks to Research Packages
+# Binder Link 
 
-_This repository is public so that Binder can find it. All code and data is based on the original [LIGO Center for Open Science Tutorial Repository](https://github.com/losc-tutorial/LOSC_Event_tutorial). This repository is a class exercise that restructures the original LIGO code for improved reproducibility, as a homework assignment for the [Fall 2025 installment of UC Berkeley's Stat 159/259 course, _Reproducible and Collaborative Data Science](https://ucb-stat-159-f25.github.io/site/). Authorship of the original analysis code rests with the LIGO collaboration._
+[![Binder](https://mybinder.org/v2/gh/fionaalii28/LOSC_Event_tutorial/master?labpath=LOSC_Event_tutorial.ipynb
+)
+
+
+
+# Stat 159/259 — Homework 2: From Notebooks to Research Packages
+
+This repository restructures the original [LIGO Open Science Center Tutorial](https://github.com/losc-tutorial/LOSC_Event_tutorial) into a **reproducible research package** for UC Berkeley’s Stat 159/259 course (_Reproducible and Collaborative Data Science_, Fall 2025).
+
+All code and data are based on the original LIGO Center for Open Science Tutorial Repository. This repository is a class exercise that improves reproducibility by adding environment specifications, Binder integration, and modular packaging.
+
+## Launch Binder
+
+Click below to open the full notebook in Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fionaalii28/LOSC_Event_tutorial/master?labpath=LOSC_Event_tutorial.ipynb)
+
+
+## Notes
+- Environment: Conda + Python 3.8 (`ligo` environment)
+- Binder build tested last successfully (October 9 2025)
+- Tags: `repo-basic`, `ligotools-pkg`, `conda-env`, `binder`
+
+
+
